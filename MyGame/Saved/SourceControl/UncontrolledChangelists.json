@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/LensDistortionEffect/LD__Material.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/LensDistortionEffect/M_Bodycam.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/LensDistortionEffect/MI_Bodycam.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/FPS_HUDMAIN/LensDistortionEffect/MI_Bodycam.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/FPS_HUDMAIN/LensDistortionEffect/M_Bodycam.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/Animations/TestSubjectMain.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CD/OONOI4NZRQG6QRMU1CGNQE.uasset",
+				"C:/Users/RAIDEN SHOGUN/Documents/Unreal Projects/MyGame/Content/ThirdPerson/Blueprints/Animations/BS__Walk.uasset"
+			]
+		}
+	]
+}
